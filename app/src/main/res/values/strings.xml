@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Homework6</string>
+    <string name="message">1.Добавленный строковый ресурс</string>
+    <string name="formating_message1">Это %1$s №%2$d </string>
+    <string name="formating_message2">Сейчас %1$d год, %2$d месяц, %3$d день, %4$d:%5$d</string>
+</resources>
